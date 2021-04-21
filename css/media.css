@@ -1,0 +1,254 @@
+@media(min-width:1200px) and (max-width:1399px){
+    .banner-right {
+        width: 100%;
+    }
+}
+@media(min-width:992px) and (max-width:1199.98px){
+    .banner-right {
+        width: 100%;
+    }
+    .banner-left h3 {
+        font-size: 50px;
+        
+    }
+    .winner-main {
+        margin-top: -96px;
+    }
+    #counter_up {
+        margin-top: -146px;
+        padding-bottom: 86px;
+    }
+}
+
+@media(min-width:768px) and (max-width:991.98px) {
+    .navbar-toggler i{
+        color: #fff;
+        font-size: 20px;
+    }
+    .navbar-toggler:focus{
+        box-shadow:none ;
+    }
+    .navbar-nav {
+        background:rgba(1, 19, 33, 0.80);
+        margin-top: 17px !important;
+        text-align: center;
+        line-height: 80px;
+    }
+    .nav-bg {
+        background:#011321;
+        line-height: 80px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link{
+        line-height: 60px;
+    }
+    .navbar-light .navbar-nav .nav-link.active {
+        line-height: 60px;
+    }
+    .banner-right {
+        width: 100%;
+        margin-bottom: -45px;
+    }
+    .banner-left {
+        padding-top: 50px;
+        width: 100%;
+    }
+    .counter-text {
+        margin-top: 128px;
+    }
+    .banner-left h4 {
+        font-size: 40px;
+        padding-bottom: 7px;
+        line-height: 48px;
+    }
+    .banner-left h3 {
+        font-size: 28px;
+        margin-top: 6px;
+    }
+    .banner-left p {
+        font-size: 15px;
+       
+    }
+    #counter_up {
+        margin-top: -95px;
+    }
+    .winner-main {
+        margin-top:0px;
+        
+    }
+    .counter-text h2 {
+        font-size: 36px;
+       
+    }
+    
+    .counter-icons {
+        margin-top: 60px;
+    }
+    #counter_up {
+        padding-bottom: 60px;
+    }
+    .heading h2 {
+        font-size: 40px;
+        padding-bottom: 18px;
+    }
+    .iteam-img {
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+}
+@media(min-width:576px) and (max-width:767.98px){
+    .navbar-toggler i{
+        color: #fff;
+        font-size: 20px;
+    }
+    .navbar-toggler:focus{
+        box-shadow:none ;
+    }
+    .navbar-nav {
+        background:rgba(1, 19, 33, 0.80);
+        margin-top: 17px !important;
+        text-align: center;
+        line-height: 80px;
+    }
+    .nav-bg {
+        background:#011321;
+        line-height: 80px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link{
+        line-height: 60px;
+    }
+    .navbar-light .navbar-nav .nav-link.active {
+        line-height: 60px;
+    }
+    .banner-right {
+        width: 100%;
+        margin-bottom: 100px;
+    }
+    .banner-left {
+        padding-top: 50px;
+        width: 100%;
+    }
+    .banner-left h4 {
+        font-size: 38px;
+        padding-bottom: 5px;
+        line-height: 45px;
+    }
+    .banner-left h3 {
+        font-size: 28px;
+        margin-top: 6px;
+    }
+    .banner-left p {
+        font-size: 15px;
+       
+    }
+    .winner-main {
+        margin-top:0px;
+        
+    }
+    .counter-text h2 {
+        font-size: 36px;
+       
+    }
+    .counter-text p {
+        width: 100%;
+        margin-top: 15px;
+        text-align: center;
+        line-height: 33px;
+    }
+    .counter-icons {
+        margin-top: 20px;
+    }
+    #counter_up {
+        padding-bottom: 30px;
+    }
+    .heading h2 {
+        font-size: 23px;
+        padding-bottom: 18px;
+    }
+    .iteam-img {
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+}
+
+@media (max-width:575.98px){
+
+    .navbar-toggler i{
+        color: #fff;
+        font-size: 20px;
+    }
+    .navbar-toggler:focus{
+        box-shadow:none ;
+    }
+    .navbar-nav {
+        background:rgba(1, 19, 33, 0.80);
+        margin-top: 17px !important;
+        text-align: center;
+        line-height: 80px;
+    }
+    .nav-bg {
+        background:#011321;
+        line-height: 80px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link{
+        line-height: 60px;
+    }
+    .navbar-light .navbar-nav .nav-link.active {
+        line-height: 60px;
+    }
+    .banner-right {
+        width: 100%;
+        margin-bottom: 100px;
+    }
+    .banner-left {
+        padding-top: 40px;
+        width: 100%;
+    }
+    .banner-left h4 {
+        font-size: 26px;
+        padding-bottom: 4px;
+        line-height: 24px;
+    }
+    .banner-left h3 {
+        font-size: 44px;
+        margin-top: 30px;
+    }
+    .winner-main {
+        margin-top:0px;
+        
+    }
+    .counter-text h2 {
+        font-size: 36px;
+       
+    }
+    .counter-text p {
+        width: 100%;
+        margin-top: 15px;
+        text-align: center;
+        line-height: 33px;
+    }
+    .counter-icons {
+        margin-top: 20px;
+    }
+    #counter_up {
+        padding-bottom: 30px;
+    }
+    .heading h2 {
+        font-size: 23px;
+        padding-bottom: 18px;
+    }
+    .iteam-img {
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+    .btm-top i {
+        right: 12px;
+    }
+
+    @media(min-width:575px){
+        .counter-text p {
+            text-align: left;
+            width: 435px;
+        }
+    }
+
+}
