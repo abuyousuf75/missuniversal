@@ -27,13 +27,21 @@ $(window).scroll(function(){
 
 $('.btm-top').click(function(){
 
-    $('body,html').animate({scrollTop:0},1000);
+    $('body, html').animate({scrollTop:0},1000);
 
 });
 
 
+// Side Bar
 
 
+$('.side-click').click(function(){
+    $('.sidebar').toggleClass('sideopen')
+
+    $('.side-click').toggleClass('slide-click-2')
+    $('.side-click').toggleClass('fa-bars')
+
+});
 
 
 

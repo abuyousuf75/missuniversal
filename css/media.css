@@ -21,6 +21,9 @@
 }
 
 @media(min-width:768px) and (max-width:991.98px) {
+    .navbar-toggler {
+        display: none;
+    }
     .navbar-toggler i{
         color: #fff;
         font-size: 20px;
@@ -96,6 +99,12 @@
     }
 }
 @media(min-width:576px) and (max-width:767.98px){
+    .navbar-toggler{
+        display: none;
+    }
+    .side-click {
+        top: 20px;
+    }
     .navbar-toggler i{
         color: #fff;
         font-size: 20px;
@@ -107,11 +116,11 @@
         background:rgba(1, 19, 33, 0.80);
         margin-top: 17px !important;
         text-align: center;
-        line-height: 80px;
+       
     }
     .nav-bg {
         background:#011321;
-        line-height: 80px;
+       
     }
     .navbar-expand-lg .navbar-nav .nav-link{
         line-height: 60px;
@@ -171,7 +180,15 @@
 }
 
 @media (max-width:575.98px){
-
+    .navbar-toggler{
+        display: none;
+    }
+    .nav-bg {
+      line-height: 22px!important;
+    }
+    .side-click {
+        top: 20px;
+    }
     .navbar-toggler i{
         color: #fff;
         font-size: 20px;
@@ -187,7 +204,6 @@
     }
     .nav-bg {
         background:#011321;
-        line-height: 80px;
     }
     .navbar-expand-lg .navbar-nav .nav-link{
         line-height: 60px;
@@ -245,6 +261,9 @@
     }
 
     @media(min-width:575px){
+        .navbar-toggler{
+            display: none;
+        }
         .counter-text p {
             text-align: left;
             width: 435px;
